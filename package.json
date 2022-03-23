@@ -6,6 +6,7 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
+    "@mdi/font": "^6.5.95",
     "@vuetify/vite-plugin": "^1.0.0-alpha.10",
     "nuxt3": "latest"
   },
